@@ -1,5 +1,5 @@
 <div id="header" align="center" style="color: #3CB371;">  
-	<h1> Hi there👋, I'm Evgeny</h1>  
+	<h1 style="color: #3CB371> Hi there👋, I'm Evgeny</h1>  
 	<h3> Data Analyst from Saint-Petersburg </h3>  
 	  
 <a href="https://t.me/snakeks" target="_blank">  

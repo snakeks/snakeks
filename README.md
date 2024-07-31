@@ -21,6 +21,11 @@
 		<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />  
 		<img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />  
 </p>  
+
+</div>
+<!--
+**snakeks/snakeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 	  
 <h3 style="color: #3CB371;"> Libraries </h3>  
 	  
@@ -36,18 +41,4 @@
 		<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />  
 </p>  
 
-</div>
-<!--
-**snakeks/snakeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

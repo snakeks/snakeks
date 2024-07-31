@@ -2,11 +2,11 @@
 	<h1> Hi there👋, I'm Evgeny</h1>  
 	<h3> Data Analyst from Saint-Petersburg </h3>  
 	  
-	<a href="https://t.me/snakeks" target="_blank">  
+<a href="https://t.me/snakeks" target="_blank">  
 		<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>  
 	</a>  
 
-	<a href="https://www.linkedin.com/in/snakeks" target="_blank">  
+<a href="https://www.linkedin.com/in/snakeks" target="_blank">  
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>  
 	</a>  
 </div>

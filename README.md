@@ -1,6 +1,12 @@
-<div id="header" align="center" style="color: #3CB371;">  
-	<h1> <style="color: #3CB371> Hi there👋, I'm Evgeny</h1>  
-	<h3> Data Analyst from Saint-Petersburg </h3>  
+<style>  
+  .header-text {  
+    color: #3CB371; /* Зелёный цвет */  
+  }  
+</style>
+
+<div id="header" align="center">  
+	<h1 class="header-text"> Hi there👋, I'm Evgeny</h1>  
+	<h3 class="header-text"> Data Analyst from Saint-Petersburg </h3>  
 	  
 <a href="https://t.me/snakeks" target="_blank">  
 		<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>  

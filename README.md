@@ -1,44 +1,27 @@
 <div id="header" align="center">  
-	<h1 style="color: #3CB371;"> Hi there👋, I'm Evgeny</h1>  
-	<h3 style="color: #3CB371;"> Data Analyst from Saint-Petersburg </h3>  
-	  
-<a href="https://t.me/snakeks" target="_blank">  
-		<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=lightgreen" alt="Telegram Badge"/>  
-	</a>  
+    <h1 style="color: #3CB371;"> Hi there👋, I'm Evgeny</h1>  
+    <h3 style="color: #3CB371;"> Data Analyst from Saint-Petersburg </h3>  
+      
+ <a href="https://t.me/snakeks" target="_blank">  
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=lightgreen" alt="Telegram Badge"/>  
+    </a>  
 
-<a href="https://www.linkedin.com/in/snakeks" target="_blank">  
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=lightgreen" alt="LinkedIn Badge"/>  
-	</a>  
+ <a href="https://www.linkedin.com/in/snakeks" target="_blank">  
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=lightgreen" alt="LinkedIn Badge"/>  
+    </a>  
 </div>  
 
 <div align="center">  
-
-<h3 style="color: #3CB371;"> Languages & Technologies </h3>  
-	  
+    <h3 style="color: #3CB371;"> Languages & Technologies </h3>  
+      
 <p>  
-		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />  
-		<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
-		<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />  
-		<img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />  
-</p>  
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />  
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />  
+        <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />  
+        <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />  
+    </p>  
+</div>  
 
-</div>
-<!--
-**snakeks/snakeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-	  
-<h3 style="color: #3CB371;"> Libraries </h3>  
-	  
-<p>  
-		<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />  
-		<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />  
-		<img src="https://img.shields.io/badge/SQLAlchemy-6C2E3E?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /> 
-		<img src="https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" />  
-		<img src="https://img.shields.io/badge/Seaborn-30B3D0?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" />  
-		<img src="https://img.shields.io/badge/Plotly-3B4B6C?style=flat&logo=plotly&logoColor=white" alt="Plotly" />  
-		<img src="https://img.shields.io/badge/pyodbc-1D9B49?style=flat&logo=python&logoColor=white" alt="pyodbc" />  
-		<img src="https://img.shields.io/badge/psycopg2-0071B5?style=flat&logo=python&logoColor=white" alt="psycopg2" />  
-		<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />  
-</p>  
-
+<!--  
+A little about myself: For my entire life, I have been searching for what I truly enjoy, and just a few years ago, I realized that I love working with data. I studied the basics and since the beginning of 2024, I have been deepening my knowledge in big data analysis.  
 -->

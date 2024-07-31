@@ -9,17 +9,6 @@
 <a href="https://www.linkedin.com/in/snakeks" target="_blank">  
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=lightgreen" alt="LinkedIn Badge"/>  
 	</a>  
-<div id="header" align="center">  
-	<h1 style="color: #3CB371;"> Hi there👋, I'm Evgeny</h1>  
-	<h3 style="color: #3CB371;"> Data Analyst from Saint-Petersburg </h3>  
-	  
-<a href="https://t.me/snakeks" target="_blank">  
-		<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=lightgreen" alt="Telegram Badge"/>  
-	</a>  
-
-<a href="https://www.linkedin.com/in/snakeks" target="_blank">  
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=lightgreen" alt="LinkedIn Badge"/>  
-	</a>  
 </div>  
 
 <div align="center">  
